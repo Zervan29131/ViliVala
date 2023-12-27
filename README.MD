@@ -52,6 +52,12 @@
 
 提高搬砖效率的辅助工具： 批量操作front matter工具
 
+## 例图
+
+![vilivala首页](./diagram/vilivala首页.png)
+
+![vilivala首页2](./diagram/vilivala首页2.png)
+
 # 快速上手
 
 ### 生成静态文件
